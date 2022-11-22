@@ -1,9 +1,9 @@
 server:
-  port: 80
+  port: 8888
 cors:
   originPatterns: http://localhost:3000,http://localhost:8080,https://erudio.com.br
   file:
-    upload-dir: /Code/UploadDir
+    upload-dir: /home/runner/work/API-REST-FULL-JAVA-SPRING-BOOT/UploadDir
 security:
   jwt:
     token:
