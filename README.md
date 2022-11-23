@@ -6,7 +6,7 @@
 <img src=https://github.com/leonardovilela100/API-REST-FULL-JAVA-SPRING-BOOT/blob/main/Imagen_integracao_conti.png>
 
 
-<h1>Api Criada com as melhores praticas de programação utilizando o java 18 com Spring Boot</h1>
+<h1>Api Criada com as melhores práticas  de programação utilizando o java 18 com Spring Boot</h1>
 <h2>API totalmente dockerizada e realizando uma integração continua entre (Ambiente de Dev / GitHub / GitHub Actions-Builds docker e imagens / Docker Hub ) </h2>
 <h3>Integração da API na Amazon AWS e integração continua com GitHub Actions</h3>
 <h3>Utilizamos Versionamento de API</h3>
